@@ -15,7 +15,7 @@
 jyidi/jyidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 
 I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernetes ☁️ Cloud Native 📝 DeFi Smart Contract and 🌐 Website for a living and also Write some blogs. 🌈
 
@@ -24,7 +24,7 @@ I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernete
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://). -->
 <!-- * 💻   With 4 years' computer science and technology education. -->
 
 
